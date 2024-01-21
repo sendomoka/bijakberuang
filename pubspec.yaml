@@ -1,8 +1,7 @@
-name: cek_porsi
+name: bijakberuang
 description: "A new Flutter project."
 publish_to: 'none'
-
-version: 1.0.0+1
+version: 0.1.0
 
 environment:
   sdk: '>=3.2.4 <4.0.0'
@@ -11,30 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
   flutter_svg: ^2.0.9
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^2.0.0
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - images/logo.svg
-    - images/kategori/nasi.png
-    - images/kategori/ayam.png
-    - images/kategori/gorengan.png
-    - images/kategori/jajanan.png
-    - images/kategori/minuman.png
-    - images/kategori/sayur.png
-    - images/diet/kuecubit.jpg
-    - images/diet/bakwanjagung.jpg
-    - images/diet/airmineral.jpg
-    - images/diet/nasimerah.jpg
-    - images/diet/dadaayambakar.jpeg
-    - images/diet/tumiskangkung.jpeg
